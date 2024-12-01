@@ -1,0 +1,16 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.json
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+
+# Ignore libraries and dependencies
+node_modules/
+lib/
